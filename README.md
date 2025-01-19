@@ -42,3 +42,7 @@ Root mean squared error (RMSE) and the Coefficient of determination (R^2). As ca
 - **Mean squared error** : 1.202
 - **Root mean squared error (RMSE)** : 1.096
 - **Coefficient of determination (R^2)** : 0.734
+
+### Future Work
+  - Explore other machine learning techniques for better performance.
+  - Integrate the model into a web application for real-time predictions.
