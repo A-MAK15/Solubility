@@ -45,4 +45,4 @@ Root mean squared error (RMSE) and the Coefficient of determination (R^2). As ca
 
 ### Future Work
   - Explore other machine learning techniques for better performance.
-  - Integrate the model into a web application for real-time predictions.
+  - Integrate the model into a web application for real-time predictions and live solubility examples.
